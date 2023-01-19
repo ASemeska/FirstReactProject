@@ -1,6 +1,6 @@
 <h1>FirstReactProject</h1>
 
-#In order to start vite project with npm:
+In order to start vite project with npm:
 
 ```Shell
 npm create vite@latest
